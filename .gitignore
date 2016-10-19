@@ -1,3 +1,7 @@
 .gradle
 build
-java-gen
+.settings/
+.classpath
+.project
+
+/bin/

@@ -1,6 +1,6 @@
 @GenModel(
     bundleManifest="false",
-    modelDirectory="xcore-gradle-example/src/main/java-gen",
+    modelDirectory="xcore-gradle-example/build/xcore/main",
     complianceLevel="7.0"
 )
 package sample.model
